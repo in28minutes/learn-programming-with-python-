@@ -1,0 +1,5 @@
+Simple Interest
+
+simple_interest(principal, interest, duration_in_years)
+
+simple_interest(10000,5,5) = 12500
