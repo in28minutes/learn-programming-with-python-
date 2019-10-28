@@ -2605,7 +2605,7 @@ KeyboardInterrupt
 - Tip 2 - Loop - Getting Index Element
 - Tip 3 - Python is Strongly Typed and Dynamic Language
 - Tip 4 - Beginners Mistakes - Shadowing
-- Tip 8 - Defining Equality for Classes
+- Tip 9 - Defining Equality for Classes
 - Tip 5 - Beginners Mistakes - Indentation
 - Tip 6 - PEP8 - Python Style Guide
 - Tip 7 - PEP20 - Zen of Python
@@ -3941,10 +3941,11 @@ TypeError: unsupported operand type(s) for +: 'int' and 'str'
 - Tip 1 - Math Module and Decimal Class
 - Tip 2 - Statistics Module - find mean and median
 - Tip 3 - Collections Module - deque for Queue and Stack
-- Tip 4 - Methods and Arguments - Basics
-- Tip 5 - Methods and Arguments - Keyword Arguments
-- Tip 6 - Methods and Arguments - Unpacking Lists and Dictionaries
-- Tip 7 - Creating Custom Modules and Using Them
+- Tip 4 - Date Module
+- Tip 5 - Methods and Arguments - Basics
+- Tip 6 - Methods and Arguments - Keyword Arguments
+- Tip 7 - Methods and Arguments - Unpacking Lists and Dictionaries
+- Tip 8 - Creating Custom Modules and Using Them
 
 ### PyCharm Code
 #### /05-tips/all_about_methods.py

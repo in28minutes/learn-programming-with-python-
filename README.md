@@ -140,9 +140,9 @@ In more than 150 Steps, we explore the most important Python Programming Languag
 # Tips For Beginners
 - Tip 1 - Using Predefined Python Modules
 - Tip 2 - Loop - Getting Index Element
-- Tip 3 - Python is Strongly Typed and Dynamic Language
+- Tip 3 - Short hand If Statement
+- Tip 4 - Python is Strongly Typed and Dynamic Language
 - Tip 4 - Beginners Mistakes - Shadowing
-- Tip 8 - Defining Equality for Classes
 - Tip 5 - Beginners Mistakes - Indentation
 - Tip 6 - PEP8 - Python Style Guide
 - Tip 7 - PEP20 - Zen of Python
@@ -179,6 +179,8 @@ In more than 150 Steps, we explore the most important Python Programming Languag
 - Step 11 - Introduction to Dictionary ##
 - Step 12 - Exercise with Dictionary - Word and Character Occurances
 - Step 13 - Puzzles with Data Structures ##
+- Step 14 - Tuples
+
 
 #### Object Oriented Programming Again
 - Step 01 - OOPS Basics Revised
@@ -207,10 +209,13 @@ In more than 150 Steps, we explore the most important Python Programming Languag
 - Tip 1 - Math Module and Decimal Class
 - Tip 2 - Statistics Module - find mean and median
 - Tip 3 - Collections Module - deque for Queue and Stack
-- Tip 4 - Methods and Arguments - Basics
-- Tip 5 - Methods and Arguments - Keyword Arguments
-- Tip 6 - Methods and Arguments - Unpacking Lists and Dictionaries
-- Tip 7 - Creating Custom Modules and Using Them
+- Tip 4 - Date Module
+- Tip 5 - Methods and Arguments - Basics
+- Tip 6 - Methods and Arguments - Keyword Arguments
+- Tip 7 - Methods and Arguments - Unpacking Lists and Dictionaries
+- Tip 8 - Creating Custom Modules and Using Them
+- Tip 9 - Defining Equality for Classes
+- Tip 10 - None
 
 ### Course Recording Notes
 
