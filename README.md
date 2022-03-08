@@ -13,7 +13,7 @@
 
 We love Programming. Our aim with this course is to create a love for Programming.
 
-Python is one of the most popular programming languages. Python offers both object oriented and structural programming features. 
+Python is one of the most popular programming language. Python offers both object oriented and structural programming features. 
 
 We take an hands-on approach using a combination of Python Shell and PyCharm as an IDE to illustrate more than 150 Python Coding Exercises, Puzzles and Code Examples.  
 
